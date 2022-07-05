@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQ7zxW/G1XHYV05NtJNokcnTCEJBUjhLwQbPzrlqjCzKshf6Ngw2kC6U1+e/bNsmMnfYse+iHtJWthb36+y1kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomi\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Tomi\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\Tomi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\Tomi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Tomi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
