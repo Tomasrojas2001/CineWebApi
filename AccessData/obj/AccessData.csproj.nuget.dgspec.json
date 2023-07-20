@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\AccessData\\AccessData.csproj": {}
+    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\AccessData\\AccessData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\AccessData\\AccessData.csproj": {
+    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\AccessData\\AccessData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\AccessData\\AccessData.csproj",
+        "projectUniqueName": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\AccessData\\AccessData.csproj",
         "projectName": "AccessData",
-        "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\AccessData\\AccessData.csproj",
+        "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\AccessData\\AccessData.csproj",
         "packagesPath": "C:\\Users\\Tomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\AccessData\\obj\\",
+        "outputPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\AccessData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,11 +34,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Application\\Application.csproj"
+              "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Application\\Application.csproj"
               },
-              "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj"
+              "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -101,18 +101,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Application\\Application.csproj": {
+    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Tomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -135,8 +135,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj"
+              "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -153,11 +153,11 @@
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[10.3.3, )"
+              "version": "[11.6.0, )"
             },
             "FluentValidation.AspNetCore": {
               "target": "Package",
-              "version": "[10.3.3, )"
+              "version": "[11.3.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -193,18 +193,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj": {
+    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Tomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -241,15 +241,15 @@
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[10.3.3, )"
+              "version": "[11.6.0, )"
             },
             "FluentValidation.AspNetCore": {
               "target": "Package",
-              "version": "[10.3.3, )"
+              "version": "[11.3.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[13.0.1, )"
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -267,7 +267,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -46,3 +46,15 @@ C:\Users\Tomi\OneDrive\Escritorio\TP3-UI-ROJAS_TOMAS-ConBackend10-12\TP-2\Domain
 C:\Users\Tomi\OneDrive\Escritorio\TP3-UI-ROJAS_TOMAS-ConBackend10-12\TP-2\Domain\obj\Debug\net5.0\refint\Domain.dll
 C:\Users\Tomi\OneDrive\Escritorio\TP3-UI-ROJAS_TOMAS-ConBackend10-12\TP-2\Domain\obj\Debug\net5.0\Domain.pdb
 C:\Users\Tomi\OneDrive\Escritorio\TP3-UI-ROJAS_TOMAS-ConBackend10-12\TP-2\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Tomi\OneDrive\Escritorio\PROYECTOS .NET\CineWeb\CineWebBackend\Domain\obj\Debug\net5.0\refint\Domain.dll

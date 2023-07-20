@@ -16,7 +16,7 @@
           "lib/netstandard2.0/Dapper.dll": {}
         }
       },
-      "FluentValidation/10.3.3": {
+      "FluentValidation/11.6.0": {
         "type": "package",
         "compile": {
           "lib/net5.0/FluentValidation.dll": {}
@@ -25,11 +25,11 @@
           "lib/net5.0/FluentValidation.dll": {}
         }
       },
-      "FluentValidation.AspNetCore/10.3.3": {
+      "FluentValidation.AspNetCore/11.3.0": {
         "type": "package",
         "dependencies": {
-          "FluentValidation": "10.3.3",
-          "FluentValidation.DependencyInjectionExtensions": "10.3.3"
+          "FluentValidation": "11.5.1",
+          "FluentValidation.DependencyInjectionExtensions": "11.5.1"
         },
         "compile": {
           "lib/net5.0/FluentValidation.AspNetCore.dll": {}
@@ -41,10 +41,10 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "FluentValidation.DependencyInjectionExtensions/10.3.3": {
+      "FluentValidation.DependencyInjectionExtensions/11.5.1": {
         "type": "package",
         "dependencies": {
-          "FluentValidation": "10.3.3",
+          "FluentValidation": "11.5.1",
           "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
         },
         "compile": {
@@ -481,7 +481,7 @@
           }
         }
       },
-      "Newtonsoft.Json/13.0.1": {
+      "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
@@ -1586,8 +1586,8 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Domain": "1.0.0",
-          "FluentValidation": "10.3.3",
-          "FluentValidation.AspNetCore": "10.3.3",
+          "FluentValidation": "11.6.0",
+          "FluentValidation.AspNetCore": "11.3.0",
           "Microsoft.EntityFrameworkCore": "5.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.10",
           "NPOI": "2.5.4"
@@ -1603,9 +1603,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "FluentValidation": "10.3.3",
-          "FluentValidation.AspNetCore": "10.3.3",
-          "Newtonsoft.Json": "13.0.1"
+          "FluentValidation": "11.6.0",
+          "FluentValidation.AspNetCore": "11.3.0",
+          "Newtonsoft.Json": "13.0.3"
         },
         "compile": {
           "bin/placeholder/Domain.dll": {}
@@ -1634,49 +1634,58 @@
         "lib/netstandard2.0/Dapper.xml"
       ]
     },
-    "FluentValidation/10.3.3": {
-      "sha512": "sgRC+7q4mnmDHE9ehk2cvb+FDTy/gtw5iBoKFY3FVp1ZwFsLS0kIcdSpNlCO3XyyNIzZI2ca8I/YiFG9pM6x0Q==",
+    "FluentValidation/11.6.0": {
+      "sha512": "DWKd0jHA33d7BXVWytSoN5Oafj9nYuiLUyyFoaUboOZZiaN5tlXdcJpkRbmrrWBUTWdSxjTwIoyUs38KSU/7OQ==",
       "type": "package",
-      "path": "fluentvalidation/10.3.3",
+      "path": "fluentvalidation/11.6.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "README.md",
         "fluent-validation-icon.png",
-        "fluentvalidation.10.3.3.nupkg.sha512",
+        "fluentvalidation.11.6.0.nupkg.sha512",
         "fluentvalidation.nuspec",
         "lib/net5.0/FluentValidation.dll",
         "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
         "lib/netstandard2.0/FluentValidation.dll",
         "lib/netstandard2.0/FluentValidation.xml",
         "lib/netstandard2.1/FluentValidation.dll",
         "lib/netstandard2.1/FluentValidation.xml"
       ]
     },
-    "FluentValidation.AspNetCore/10.3.3": {
-      "sha512": "DEh0ibCjH2kL5sk9yHcYMFrARUZ+/7iisW900odFUh3FV2zS5A/7hjNjnHSv2Imgq4gIQmpajamMm1uFDrBBWA==",
+    "FluentValidation.AspNetCore/11.3.0": {
+      "sha512": "jtFVgKnDFySyBlPS8bZbTKEEwJZnn11rXXJ2SQnjDhZ56rQqybBg9Joq4crRLz3y0QR8WoOq4iE4piV81w/Djg==",
       "type": "package",
-      "path": "fluentvalidation.aspnetcore/10.3.3",
+      "path": "fluentvalidation.aspnetcore/11.3.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "README.md",
         "fluent-validation-icon.png",
-        "fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+        "fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
         "fluentvalidation.aspnetcore.nuspec",
         "lib/net5.0/FluentValidation.AspNetCore.dll",
         "lib/net5.0/FluentValidation.AspNetCore.xml",
+        "lib/net6.0/FluentValidation.AspNetCore.dll",
+        "lib/net6.0/FluentValidation.AspNetCore.xml",
         "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll",
         "lib/netcoreapp3.1/FluentValidation.AspNetCore.xml"
       ]
     },
-    "FluentValidation.DependencyInjectionExtensions/10.3.3": {
-      "sha512": "kol9KlAn2pijRa0vLCzAPcp8Ql8yZdIRrO80eMVLswXQ0v6ai+ihOdqF/qPJCMXNWBnTcTGYjp1tZtizPWO+Cg==",
+    "FluentValidation.DependencyInjectionExtensions/11.5.1": {
+      "sha512": "iWM0LS1MDYX06pcjMEQKqHirl2zkjHlNV23mEJSoR1IZI7KQmTa0RcTtGEJpj5+iHvBCfrzP2mYKM4FtRKVb+A==",
       "type": "package",
-      "path": "fluentvalidation.dependencyinjectionextensions/10.3.3",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.5.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "README.md",
         "fluent-validation-icon.png",
-        "fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+        "fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
         "fluentvalidation.dependencyinjectionextensions.nuspec",
         "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
         "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml",
@@ -2402,14 +2411,15 @@
         "version.txt"
       ]
     },
-    "Newtonsoft.Json/13.0.1": {
-      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "type": "package",
-      "path": "newtonsoft.json/13.0.1",
+      "path": "newtonsoft.json/13.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
+        "README.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -2418,13 +2428,15 @@
         "lib/net40/Newtonsoft.Json.xml",
         "lib/net45/Newtonsoft.Json.dll",
         "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
         "lib/netstandard1.0/Newtonsoft.Json.dll",
         "lib/netstandard1.0/Newtonsoft.Json.xml",
         "lib/netstandard1.3/Newtonsoft.Json.dll",
         "lib/netstandard1.3/Newtonsoft.Json.xml",
         "lib/netstandard2.0/Newtonsoft.Json.dll",
         "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
@@ -5932,11 +5944,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\AccessData\\AccessData.csproj",
+      "projectUniqueName": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\AccessData\\AccessData.csproj",
       "projectName": "AccessData",
-      "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\AccessData\\AccessData.csproj",
+      "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\AccessData\\AccessData.csproj",
       "packagesPath": "C:\\Users\\Tomi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\AccessData\\obj\\",
+      "outputPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\AccessData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5959,11 +5971,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Application\\Application.csproj"
+            "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Application\\Application.csproj"
             },
-            "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj"
+            "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj"
             }
           }
         }
@@ -6026,7 +6038,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

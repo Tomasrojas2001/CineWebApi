@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj": {
+    "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Tomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\TP3-UI-ROJAS_TOMAS-ConBackend10-12\\TP-2\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Tomi\\OneDrive\\Escritorio\\PROYECTOS .NET\\CineWeb\\CineWebBackend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -48,15 +48,15 @@
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[10.3.3, )"
+              "version": "[11.6.0, )"
             },
             "FluentValidation.AspNetCore": {
               "target": "Package",
-              "version": "[10.3.3, )"
+              "version": "[11.3.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[13.0.1, )"
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
